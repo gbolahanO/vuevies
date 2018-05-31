@@ -1,4 +1,4 @@
-# vueapp
+# Vuevies
 
 > A Vue.js based Movie project
 
